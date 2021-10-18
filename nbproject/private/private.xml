@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/forget.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/Registration.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/controller/register.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/uploadimage.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/header.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/booked-car.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/uploaddocs.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/RentalRequest.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/MyConnection.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/add-car.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/book-now.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/delete.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/viewdocs.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/home.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/controller/AddCarProcess.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/getData.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/login.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/rented-cars.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/Registration.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/registered-users.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/footer.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/controller/update.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/decline.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/EditForm.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/userdetails.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/approvedlist.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/viewdetails.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/user.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/book.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/remove-car.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/User1.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/rental-requests.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/controller/upload.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/model/client.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/view-cars.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/accept.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/controller/mail.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/src/java/controller/fetch.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/carentals/web/available-cars.jsp</file>
+        </group>
+    </open-files>
+</project-private>
